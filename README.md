@@ -1,1 +1,1 @@
-# Capacitacao-CEOS-6-React
+# Capacitação CEOS | 6 - React

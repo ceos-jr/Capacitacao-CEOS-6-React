@@ -19,4 +19,4 @@ Não me entenda errado novamente, é extremamente importante termos o conhecimen
 
 Mas agora podemos abstrair boa parte de tudo isso, focando no que importa, ***escrevendo menos e fazendo mais***
 
-E acredite em mim, você vai gostar de React. :wink::heart:
+E acredite em mim, você vai gostar de React.

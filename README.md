@@ -12,7 +12,7 @@ Para acessar a página do módulo, basta clicar no link do sumário referente ao
 
 2. [Por que utilizamos React?](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/porqueutilizamosreact)
 
-3. Create-React-App
+3. [Create-React-App](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/3-create-react-app)
 	
 4. Hello World 
 

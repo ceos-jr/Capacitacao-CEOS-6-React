@@ -8,9 +8,9 @@ Abaixo está o sumário dos tópicos que ir descrever a jornada do membro ao seg
 Para acessar a página do módulo, basta clicar no link do sumário referente ao módulo. (Caso o link não esteja funcionando, aguarde, estamos trabalhando para gerar o melhor conteúdo para você).
 <br/><br/>
 
-1. O que é React?
+1. [O que é React?](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/1-oqueereact)
 
-2. Por que utilizamos React?
+2. [Por que utilizamos React?](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/porqueutilizamosreact)
 
 3. Create-React-App
 	

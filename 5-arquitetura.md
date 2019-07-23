@@ -134,3 +134,6 @@ Basta fixar na mente de duas coisas:
 
 * A pasta **src** vai conter todo o nosso  código que desenvolvemos, sejam as páginas, sistemas lógicos, estruturas, estilizações, componentes, etc.
 
+
+E com isso finalizamos nossa visita à estrutura de páginas do React. Mas fique tranquilo, na prática, iremos apenas modificar e criar arquivos na nossa pasta **src**, tanto que, na maioria dos ***exercícios propostos***, só é solicitado a pasta src.
+

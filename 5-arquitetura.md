@@ -15,7 +15,7 @@ A estrutura de pastas que você encontrou deve ter sido a que você está vendo 
 ```
 
 <br/>
-<br/>
+
 
 Não iremos focar nos arquivos *.gitignore, package-lock.json package.json e README .md* . Eles não são exclusividade do React, mas sim de projetos JavaScript em geral. Porém, para aqueles que não sabem ou tem curiosidade em saber o que são e como funcionam esses arquivos, a leitura dos links abaixo pode esclarecer tudo:
 
@@ -33,7 +33,7 @@ Não iremos focar nos arquivos *.gitignore, package-lock.json package.json e REA
 *Tempo médio de leitura: 4 minutos*
 
 <br/>
-<br/>
+
 
 Agora vamos às pastas. A pasta *node_modules* também é padrão para alguns projetos JavaScript e não seja explicada em detalhes nesse módulo, mas segue o link para os que ainda possuem dúvidas à respeito dela:
 
@@ -41,7 +41,7 @@ Agora vamos às pastas. A pasta *node_modules* também é padrão para alguns pr
 *Tempo médio de leitura: 2 minutos*
 
 <br/>
-<br/>
+
 
 Agora que vimos os arquivos padrões do nosso projeto, vamos dar uma olhada no que sobrou que é mais característico do React. Olhando agora apenas o que não foi explicado, temos:
 
@@ -62,7 +62,7 @@ Agora que vimos os arquivos padrões do nosso projeto, vamos dar uma olhada no q
 ```
 
 <br/>
-<br/>
+
 
 Tudo bem, não se assuste, é muito arquivo, mas apenas alguns deles nos são relevantes. Vamos começar pela pasta ***public***:
 
@@ -74,7 +74,7 @@ Você pode alterar nele:
 * O ícone do seu projeto (fina na aba do navegador)
 
 <br/>
-<br/>
+
 
 Mas eu recomendo que você **NÃO MEXA EM MAIS NADA NELE**. Tudo bem? <3
 Esse arquivo contém uma div muito especial que tem o id **root**. Iremos entrar em detalhes nela depois, não se preocupe. O importante é não tirar ela daí. Na verdade, pare de ficar mexendo no ***index.html*** por hora belezura?
@@ -85,7 +85,7 @@ Os arquivos ***favicon.ico e manifest.json*** são respectivamente os ícones e 
 *Tempo médio de leitura: 4 minutos*
 
 <br/>
-<br/>
+
 
 O ***favicon.ico*** é o ícone do nosso projeto que pode ser alterado posteriormente. Ele não é uma parte **TÃÃÃÃÃÃO** importante para o React, logo, vamos continuar ok?
 
@@ -96,7 +96,7 @@ Essa pasta contém **todo** o seu projeto de modo geral. Todas as suas páginas,
 Vamos explicar cada um dos arquivos, começando pelos mais importantes:
 
 <br/>
-<br/>
+
 
 ***index.js***:
 Arquivo principal do React, é ele que faz a ligação com o nosso ***index.html*** e renderiza os componentes do React na nossa página web. Iremos ver depois como ele funciona.
@@ -121,7 +121,7 @@ Sabe a logo que você vê rodando na tela quando inicia o projeto criado pelo *c
 Pra ser sincero com vocês, nem eu sei usar isso. Então não se preocupe. Não iremos usá-lo.
 
 <br/>
-<br/>
+
 
 E é isso. Vocês podem ver que o *create-react-app* cria **vários** arquivos, mas a grande maioria é apenas para fazer a página padrão do projeto rodar. Não precisaremos de boa parte deles, então pode ir tratando de perder esse medo desses arquivos.
 
@@ -130,7 +130,7 @@ Basta fixar na mente de duas coisas:
 * A pasta **public** contém imagens e outras coisas não relacionadas logica e estruturalmente com a nossa aplicação. A usaremos muito pouco(isso se formos usá-la). Vale lembrar que podemos colocar imagens na **src** também.
 
 <br/>
-<br/>
+
 
 * A pasta **src** vai conter todo o nosso  código que desenvolvemos, sejam as páginas, sistemas lógicos, estruturas, estilizações, componentes, etc.
 

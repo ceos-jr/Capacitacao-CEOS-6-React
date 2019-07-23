@@ -16,7 +16,7 @@ Para acessar a página do módulo, basta clicar no link do sumário referente ao
 	
 4. [Hello World](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/4-hello-world) 
 
-5. Entendendo a arquitetura de pastas
+5. [Entendendo a arquitetura de pastas](https://ceos-jr.github.io/Capacitacao-CEOS-6-React/5-arquitetura)
 
 6. Tecnologias extras
 
